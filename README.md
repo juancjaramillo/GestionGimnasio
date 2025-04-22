@@ -26,3 +26,35 @@ GestionGimnasio/
 ├── entrenadores.txt
 ├── clases.txt
 └── README.md
+
+🛠 Tecnologías utilizadas
+Java 17+
+
+NetBeans 15+
+
+Programación orientada a objetos
+
+Entrada/salida de archivos (.txt)
+
+🚀 Cómo ejecutar el proyecto
+Abre el proyecto en NetBeans: File > Open Project.
+
+Ejecuta la clase GestionGimnasio.java.
+
+Usa el menú por consola para interactuar.
+
+Al salir, los datos se guardan automáticamente en archivos .txt.
+
+Al volver a abrir el programa, los datos se recuperan.
+
+📁 Archivos de datos
+clientes.txt
+
+entrenadores.txt
+
+clases.txt
+
+Estos archivos se crean automáticamente en la raíz del proyecto y almacenan los datos registrados.
+
+👨‍💻 Autor
+Juan Jaramillo
